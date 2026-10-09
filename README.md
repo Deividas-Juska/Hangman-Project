@@ -1,6 +1,9 @@
 # **Hangman Project**
 ### This project is a jupyter notebook containing a hangman game that can be played on normal and hard difficulties
 
+## **Github Repository**
+https://github.com/Deividas-Juska/Hangman-Project
+
 ## **Installation**
 ### Clone the repository
 git clone https://github.com/Deividas-Juska/Hangman-Project.git
